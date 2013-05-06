@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "张琨的家庭作业"
-description: "张琨的家庭作业"
+title: "如何安装git和github"
+description: "如何安装git和github"
 category: note 
 tags: [note]
 ---
